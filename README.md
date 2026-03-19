@@ -19,5 +19,5 @@
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/luis-hiram-diaz-sanchez-1b762a86/
+- LinkedIn: https://www.linkedin.com/in/hdiaz017
 - Email: luishiram.ds@gmail.com
