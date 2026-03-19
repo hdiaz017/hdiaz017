@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on React apps
 - 💬 Ask me about React | Sports
 - 🎯 Goal: Land an international remote role
-- 📫 How to reach me: luishiram.ds@gmail.com / https://www.linkedin.com/in/luis-hiram-diaz-sanchez-1b762a86/
 - ⚡ Fun fact: ⚽️ | 🚵🏻‍♀️ | 🎮
 
 ## 🛠️ Tech Stack
