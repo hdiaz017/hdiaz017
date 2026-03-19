@@ -1,7 +1,7 @@
 ## Hi there, I'm Luis Hiram Díaz 👋
 
-💻 Frontend Developer (React) | Building Full-Stack Projects
-🌍 Aspiring to work in international tech companies
+- 💻 Frontend Developer (React) | Building Full-Stack Projects
+- 🌍 Aspiring to work in international tech companies
 
 ## 🚀 About Me
 
